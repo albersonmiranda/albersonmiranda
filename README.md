@@ -11,7 +11,7 @@
 
 **Aplicações e dados**
 
-![R Stats](https://img.shields.io/badge/-333333?style=flat&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFDE57) ![Sql Server](https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoft-sql-server) ![TeX](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex&logoColor=008080) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![R Stats](https://img.shields.io/badge/R-333333?style=flat&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFDE57) ![Sql Server](https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoft-sql-server) ![TeX](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex&logoColor=008080) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **DevOps**
 
