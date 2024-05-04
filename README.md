@@ -11,11 +11,11 @@
 
 **Aplicações e dados**
 
-![R Stats](https://img.shields.io/badge/-333333?style=flat&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Sql Server](https://img.shields.io/badge/SQL Server-333333?style=flat&logo=microsoft-sql-server) ![TeX](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![R Stats](https://img.shields.io/badge/-333333?style=flat&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFDE57) ![Sql Server](https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoft-sql-server) ![TeX](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex&logoColor=008080) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![gha](https://img.shields.io/badge/Github-Actions-e05d44?style=flat)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=1a74ed) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![gha](https://img.shields.io/badge/Github-Actions-e05d44?style=flat)
 
 **Ferramentas de desenvolvimento**
 
