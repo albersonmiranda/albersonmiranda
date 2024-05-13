@@ -7,6 +7,10 @@
 - 💸 Master's degree (2024) and graduated (2014) in Economics from [@UFES](https://internacional.ufes.br/en/home)
 - 👨🏽‍💻 Graduated in Mathematics from [@IFES](https://www.ifes.edu.br/) (2024)
 
+## Currently learning
+
+- ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+
 ## Skills
 
 **Software & data**
