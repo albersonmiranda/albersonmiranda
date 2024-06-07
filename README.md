@@ -17,7 +17,7 @@
 
 ![R Stats](https://img.shields.io/badge/R-333333?style=flat&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFDE57) ![Sql Server](https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoft-sql-server) ![TeX](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex&logoColor=008080) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-<a href="https://github.com/albersonmiranda" title="Alberson's top languages"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albersonmiranda&size_weight=0.5&count_weight=0.5&layout=compact" /> </a>
+<a href="https://github.com/albersonmiranda" title="Alberson's top languages"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albersonmiranda&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,html,css,sass,lua,dockerfile" /> </a>
 
 **DevOps**
 
