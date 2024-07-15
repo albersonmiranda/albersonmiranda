@@ -16,17 +16,17 @@
 
 **Software & data**
 
-![R Stats](https://img.shields.io/badge/R-333333?style=flat&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Sql Server](https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoft-sql-server) ![TeX](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex&logoColor=008080) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![R Stats](https://img.shields.io/badge/rstats-white?style=for-the-badge&logo=R&logoColor=276DC2) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <a href="https://github.com/albersonmiranda" title="Alberson's top languages"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albersonmiranda&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,html,css,sass,lua,dockerfile" /> </a>
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=1a74ed) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![gha](https://img.shields.io/badge/Github-Actions-e05d44?style=flat)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br/>
 
