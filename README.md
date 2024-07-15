@@ -6,7 +6,7 @@
 - 🎓 PhD student [@UFES](https://internacional.ufes.br/en/home)
 - 💸 Economics MSc (2024) from [@UFES](https://internacional.ufes.br/en/home)
 - 👨🏽‍💻 Mathematics BSc from [@IFES](https://www.ifes.edu.br/) (2024)
-- 📈 Economics BA from [@UFES](https://internacional.ufes.br/en/home)
+- 📈 Economics BA from [@UFES](https://internacional.ufes.br/en/home) (2014)
 
 ## Currently learning
 
