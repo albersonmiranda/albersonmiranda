@@ -2,7 +2,7 @@
 
 ## About
 
-- 🏦 Risk modelling [@State Bank of ES](https://www.banestes.com.br/)
+- 🏦 Risk modelling [@Bank of the State of Espírito Santo](https://www.banestes.com.br/)
 - 🎓 PhD student [@UFES](https://internacional.ufes.br/en/home)
 - 💸 Economics MSc from [@UFES](https://internacional.ufes.br/en/home) (2024) 
 - 👨🏽‍💻 Mathematics BSc from [@IFES](https://www.ifes.edu.br/) (2024)
