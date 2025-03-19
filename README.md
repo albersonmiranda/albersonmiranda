@@ -19,7 +19,7 @@
 ![R Stats](https://img.shields.io/badge/rstats-white?style=for-the-badge&logo=R&logoColor=276DC2) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://github.com/albersonmiranda" title="Alberson's top languages"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albersonmiranda&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,html,css,sass,lua,dockerfile" /> </a>
+<a href="https://github.com/albersonmiranda" title="Alberson's top languages"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albersonmiranda&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,html,css,sass,lua,dockerfile,latex,tex" /> </a>
 
 **DevOps**
 
