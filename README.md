@@ -1,4 +1,16 @@
-![](https://komarev.com/ghpvc/?username=albersonmiranda)
+![](https://komarev.com/ghpvc/?username=albersonmiranda) 
+<div align="center"> 
+  <h1>Hi, I'm Alberson :v:</h1>
+</div>
+
+> [!IMPORTANT]
+> Part data scientist, part full-stack tinkerer, part academic powerhouse.
+
+By day, I dive deep into risk modeling, hierarchical time series, input-output models, and economic forecasting. By night (and let’s be honest, probably weekends too), I'm scripting a fun random personal project, from architecture software, to recording and mixing music with friends, designing personal websites, drawing pixel art, fine-tuning Shiny apps on Google Cloud Run, and tweaking electron apps on my Mac M4 — or Fedora… or Ubuntu… because, of course, I run all three.
+
+I balance the rigor of academic research with the hustle of a self-hosted developer. I'm equally at home writing papers as I am debugging Netlify dev configs or optimizing Rust code that keep becoming faster and faster.
+
+In short: I'm a one-person R&D lab… with dogs.
 
 ## About
 
