@@ -12,7 +12,7 @@ By day, I dive deep into risk modeling, hierarchical time series, input-output m
 
 I balance the rigor of academic research with the hustle of a self-hosted developer. I'm equally at home writing papers as I am debugging Netlify dev configs or optimizing Rust code that just keeps getting faster.
 
-In short: I'm a one-person R&D lab… with dogs and cats (and a baby on the way).
+In short: I'm a one-person R&D lab… with dogs and cats.
 
 ## About
 
