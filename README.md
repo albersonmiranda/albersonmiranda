@@ -17,10 +17,10 @@ In short: I'm a one-person R&D lab… with dogs and cats.
 ## About
 
 - 🏦 Risk modeling [@Bank of the State of Espírito Santo](https://www.banestes.com.br/)
-- 🎓 PhD student [@UFES](https://internacional.ufes.br/en/home)
-- 💸 Economics MSc from [@UFES](https://internacional.ufes.br/en/home) (2024) 
-- 👨🏽‍💻 Mathematics BSc from [@IFES](https://www.ifes.edu.br/) (2024)
-- 📈 Economics BSc from [@UFES](https://internacional.ufes.br/en/home) (2014)
+- 🎓 PhD student [@Federal University of Espírito Santo](https://internacional.ufes.br/en/home)
+- 💸 Economics MSc from [@Federal University of Espírito Santo](https://internacional.ufes.br/en/home) (2024) 
+- 👨🏽‍💻 Mathematics BSc from [@Federal Institute of Education, Science and Technology](https://www.ifes.edu.br/) (2024)
+- 📈 Economics BSc from [@Federal University of Espírito Santo](https://internacional.ufes.br/en/home) (2014)
 
 ## Currently learning
 
