@@ -1,4 +1,3 @@
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/pBYjqGUcuT)](https://discord.gg/pBYjqGUcuT)
 ![](https://komarev.com/ghpvc/?username=albersonmiranda)
 
 <div align="center"> 
@@ -51,4 +50,5 @@ In short: I'm a one-person R&D lab… with dogs and cats.
 
 ## Find me at
 
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/pBYjqGUcuT)](https://discord.gg/pBYjqGUcuT)
 [![Linkedin](https://img.shields.io/badge/-albersonmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albersonmiranda/)](https://www.linkedin.com/in/albersonmiranda/) [![Gmail Badge](https://img.shields.io/badge/-albersonmiranda@gmail.com-3e65cf?style=flat-square&logo=Gmail&link=mailto:albersonmiranda@gmail.com)](mailto:albersonmiranda@gmail.com) [![GitHub](https://img.shields.io/github/followers/albersonmiranda?label=follow&style=social)](https://github.com/albersonmiranda)
