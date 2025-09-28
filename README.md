@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=albersonmiranda) 
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/pBYjqGUcuT)](https://discord.gg/pBYjqGUcuT)
+![](https://komarev.com/ghpvc/?username=albersonmiranda)
+
 <div align="center"> 
   <h1>Hi, I'm Alberson :v:</h1>
 </div>
