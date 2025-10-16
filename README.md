@@ -9,15 +9,15 @@
 
 
 
-By day, I dive deep into risk modeling, hierarchical time series, input-output models, and economic forecasting. By night (and let’s be honest, probably weekends too), I'm scripting some fun random personal project — from architecture software, to recording and mixing music with friends; designing personal websites or new furniture with Shapr3D; drawing pixel art on Procreate or fine-tuning Shiny apps on Google Cloud Run; playing with my pets or playing the guitar; and tweaking Electron apps on my Mac — or Fedora… or Ubuntu… or even Windows... because, of course, I run all of them.
+By day, I dive deep into data products, hierarchical time series and input-output models. By night (and let’s be honest, probably weekends too), I'm scripting some fun random personal project — from architecture software, to recording and mixing music with friends; designing furniture with Shapr3D or drawing pixel art on Procreate; playing guitar or synthetizers; and tweaking Electron apps on Fedora — or mac… or Ubuntu… and I'm always trying to convince my wife to install Linux (maybe someday I'll succeed).
 
-I balance the rigor of academic research with the hustle of a self-hosted developer. I'm equally at home writing papers as I am debugging Netlify dev configs or optimizing Rust code that just keeps getting faster.
+I balance the rigor of academic research with the hustle of a self-hosted developer. I'm equally at home writing papers as I am optimizing Rust code that just keeps getting faster.
 
-In short: I'm a one-person R&D lab… with dogs and cats.
+In short: I'm a one-person R&D lab.
 
 ## About
 
-- 🏦 Risk modeling [@Bank of the State of Espírito Santo](https://www.banestes.com.br/)
+- 🏦 Data Science [@Bank of the State of Espírito Santo](https://www.banestes.com.br/)
 - 🎓 PhD student [@Federal University of Espírito Santo](https://internacional.ufes.br/en/home)
 - 💸 Economics MSc from [@Federal University of Espírito Santo](https://internacional.ufes.br/en/home) (2024) 
 - 👨🏽‍💻 Mathematics BSc from [@Federal Institute of Education, Science and Technology](https://www.ifes.edu.br/) (2024)
