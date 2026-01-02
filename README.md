@@ -34,7 +34,7 @@ In short: I'm a one-person R&D lab.
 ![R Stats](https://img.shields.io/badge/rstats-white?style=for-the-badge&logo=R&logoColor=276DC2) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://github.com/albersonmiranda" title="Alberson's top languages"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albersonmiranda&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,html,css,sass,lua,dockerfile,latex,tex" /> </a>
+![Top Languages](./profile/top-langs.svg)
 
 **DevOps**
 
@@ -46,7 +46,7 @@ In short: I'm a one-person R&D lab.
 
 <br/>
 
-<a href="https://github.com/albersonmiranda" title="Alberson's profile"> <img src="https://github-readme-stats.vercel.app/api?username=albersonmiranda&amp;theme=slateorange&amp;show_icons=true" height="180em"/> </a>
+![Stats](./profile/stats.svg)
 
 ## Find me at
 
