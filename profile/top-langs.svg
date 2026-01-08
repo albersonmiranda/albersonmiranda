@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="184.86"
+          width="184.71"
           height="8"
           fill="#198CE7"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="184.86"
+          x="184.71"
           y="0"
-          width="53.24"
+          width="53.39"
           height="8"
           fill="#f1e05a"
         />
@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="238.10000000000002"
           y="0"
-          width="18.65"
+          width="18.64"
           height="8"
           fill="#dea584"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.75000000000003"
+          x="246.74"
           y="0"
-          width="11.98"
+          width="11.97"
           height="8"
           fill="#89e051"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.73000000000002"
+          x="248.71"
           y="0"
           width="10.72"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.45000000000002"
+          x="249.43"
           y="0"
           width="10.56"
           height="8"
@@ -191,14 +191,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#198CE7" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        R 73.94%
+        R 73.88%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 21.29%
+        JavaScript 21.36%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
